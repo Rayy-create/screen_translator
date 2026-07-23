@@ -1,4 +1,4 @@
-                 SCREEN TRANSLATOR OTOMATIS
+                               SCREEN TRANSLATOR OTOMATIS
 ==================================================================
 
 CARA INSTALL (WAJIB DIBACA):
