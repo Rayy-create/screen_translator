@@ -1,9 +1,8 @@
                                SCREEN TRANSLATOR OTOMATIS
 ==================================================================
 
-CARA INSTALL (WAJIB DIBACA):
+CARA INSTALL :
 1. Install Python 3.9+ dari https://www.python.org/downloads/
-   (saat install, centang "Add Python to PATH")
 
 2. Install Tesseract OCR:
    - Download installer Windows di:
